@@ -1,24 +1,13 @@
-# mongo-front
+# Mongo 权限管理
 
-## Project setup
-```
-npm install
-```
+## 2020/10/12
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+1. 安装Element-ui
 
-### Compiles and minifies for production
-```
-npm run build
-```
+2. 删除Vue-cli 脚手架自带的代码
 
-### Lints and fixes files
-```
-npm run lint
-```
+3. 安装axios
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+4. 安装Mock.js
+
+5. 
